@@ -1,0 +1,5 @@
+Anna A B C A B D E
+Borris B D E Q
+Santa A C B D
+Coca B D Q
+Dima B C N B
